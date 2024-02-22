@@ -1,0 +1,10 @@
+{
+  "extends": "@react-native",
+  // "parserOptions": {
+  //   "parser": "@babel/eslint-parser",
+  //   "requireConfigFile": false,
+  //   "parserOpts": {
+  //     "plugins": ["jsx"],
+  //   },
+  // },
+}
